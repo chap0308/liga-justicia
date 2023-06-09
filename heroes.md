@@ -2,5 +2,5 @@
 
 * Superman
 * Nueva heroina!!
-* 23ssssdadasda
-* 1dtaasd223
+* dota2dota2dota2dota2
+* dota2dota2
