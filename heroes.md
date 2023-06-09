@@ -2,4 +2,5 @@
 
 * Superman
 * Nueva heroina!!
-* Batman mujer!!
+* Batman!!
+* Nuevo personaje
