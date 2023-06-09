@@ -2,5 +2,5 @@
 
 * Superman
 * Nueva heroina!!
-* Batman mujer!!
-* Nueva heroina
+* Batman transformado en murcielago!
+* Nuevo flash!
