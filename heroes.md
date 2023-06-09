@@ -2,5 +2,5 @@
 
 * Superman
 * Nueva heroina!!
-* Batman mujer!!
-* Nueva heroina
+* SuperBatman!
+* Super flash
