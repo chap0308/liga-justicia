@@ -4,5 +4,6 @@
 * Batman
 * Aquaman
 * Mujer Maravilla
-* Linterna Verde
-* Robin
+* Otra heroina
+* Nueva heroina
+* Batman mujer
